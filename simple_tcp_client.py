@@ -55,6 +55,7 @@ def close_connection():
 
 def send_request_to_server(request):
     """
+    ""sander har ikke en ""
     :param request: The request message to send. Do NOT include the newline in the message!
     :return: True when message successfully sent, false on error.
     """
