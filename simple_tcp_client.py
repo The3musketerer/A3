@@ -20,6 +20,7 @@ def connect_to_server(HOST, PORT):
     :param port: TCP port to use
     :return: True when connection established, false otherwise
     """
+    ""
 
 
     # The "global" keyword is needed so that this function refers to the globally defined client_socket variable
