@@ -14,6 +14,7 @@ client_socket = None
 
 
 def connect_to_server(HOST, PORT):
+    "hei"
     """
     Try to establish TCP connection to the server (the three-way handshake).
     :param host: The remote host to connect to. Can be domain (localhost, ntnu.no, etc), or IP address
